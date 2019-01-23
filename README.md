@@ -8,7 +8,7 @@ Se va a desarrollar un juego tipo NES, web que cumple con las siguientes caracte
     ◦	Iniciar un nuevo juego.
     ◦	Seleccionar la dificultad del juego.
     ◦	Seleccionar el nivel de comienzo.
-    ◦	Seleccionar el alias (Nombre).
+    ◦	Seleccionar el alias (Nombre). //ELIMINAR
     ◦	Ver la tabla de puntajes.
     ◦	Salir del juego.
 
